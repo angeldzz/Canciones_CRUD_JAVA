@@ -42,7 +42,7 @@ CREATE TABLE canciones (
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/crud-canciones-javafx.git
+   git clone https://github.com/angeldzz/crud-canciones-javafx.git
    cd crud-canciones-javafx
    ```
 
